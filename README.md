@@ -1,6 +1,6 @@
 ### Hey there!
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Wesley's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Wesley's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
