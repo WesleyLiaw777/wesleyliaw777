@@ -3,7 +3,7 @@
   <img alt="Wesley's LinkedIn" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:me@wesleyliaw.com">
-  <img style="background-color: #fff" alt="Wesley's Email" width="22px" src="/assets/email.png" />
+  <img alt="Wesley's Email" width="22px" src="https://icons8.com/icon/12580/email" />
 </a>
 
 <br />
