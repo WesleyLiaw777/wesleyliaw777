@@ -23,6 +23,8 @@ Hey, I'm [Wesley Liaw](https://www.wesleyliaw.com/), a highly motivated software
 <code><img height="20" src="/assets/tailwind2.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wesleyliaw777&count_private=true&theme=tokyonight&showicons=true)]() -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyliaw777&langs_count=5&theme=tokyonight)]()
 
 <!-- 
 This week, I spent my time on:
