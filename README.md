@@ -10,7 +10,7 @@
 
 Hey, I'm [Wesley Liaw](https://www.wesleyliaw.com/), a highly motivated software engineer with a strong passion for performant and aesthetic websites.
 
-:man_technologist: Actively seeking new employment opportunities! Click the email icon above or <a href="mailto:me@wesleyliaw.com">here</a> to get in touch. I look forward to hearing from you!
+Click the email icon above or <a href="mailto:me@wesleyliaw.com">here</a> to get in touch. I look forward to hearing from you!
 
 **Languages and Tools:**  
 
