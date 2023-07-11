@@ -1,9 +1,9 @@
 ### Hey there!
 <a href="https://www.linkedin.com/in/wesleyliaw/">
-  <img alt="Wesley's LinkedIn" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIn" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:me@wesleyliaw.com">
-  <img alt="Wesley's Email" width="22px" src="https://camo.githubusercontent.com/987e9d7d7e70f98c5cd1d613add6ef56bcab60a8eda9e3df9f4f505b611ff773/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f676d61696c2e706e67" />
+  <img alt="Email" width="22px" src="https://camo.githubusercontent.com/987e9d7d7e70f98c5cd1d613add6ef56bcab60a8eda9e3df9f4f505b611ff773/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f676d61696c2e706e67" />
 </a>
 
 <br />
